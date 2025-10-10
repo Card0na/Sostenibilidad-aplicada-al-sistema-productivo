@@ -1,3 +1,11 @@
+>## **Día 4 (10/10/2025)**
+
+En esta clase hemos profundizado sobre varios aspectos sobre los órganismos vivos, sus comportamientos, su perseverancia y capacidad para sobrevivir.
+
+Se ha hablado sobre la capacidad de carga que tiene un ecosistema, sus limites de existencia dentro de una sociedad y distintos ejemplos por los órganismos tienen si o sí un límite.
+
+Uno de los ejemplos más claros fueron la disponibilidad de recursos y como mencioné anteriormente, la capacidad de carga con la que cuenta un ecosistema para almacenar distintos órganismos.
+
 >## **Día 3 (3/10/2025)**
 
 Hemos debatido sobre diferentes perspectivas entre los humanos y los animales, similitudes, diferencias y como es que de cierta manera somos todos animales.
