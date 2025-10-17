@@ -1,3 +1,18 @@
+>## **Día 5 (17/10/2025)**
+
+Primero, hablamos sobre la convivencia que existe entre los seres vivos y como nos relacionamos con ellos todos los días, dejando en claro que nunca estamos solos, vivimos al rededor de animales, flora y distintas personas dentro de nuestra sociedad que afectan a nuestros comportamientos diariamente.
+
+*¿Qué hacemos nostros? ¿cooperamos o competimos?*
+
+Yo pienso que internamente todos competimos contra algo, pero coopermos para lograr ese algo.
+
+El animal en general tiende a comportarse y a tomar decisiones en base a la supervivencia de si mismo y hace lo que sea necesario para mantenerse en pie. Un ejemplo que me hizo pensarlo fue el equipo de futbol:
+
+- Distintos equipos compiten para ganar el torneo.
+- Cada equipo coopera entre ellos para ganar el partido.
+- Internamente en cada equipo compiten entre ellos para ser el mejor, destacar y posiblemente ganar un balón de oro.
+
+
 >## **Día 4 (10/10/2025)**
 
 En esta clase hemos profundizado sobre varios aspectos sobre los órganismos vivos, sus comportamientos, su perseverancia y capacidad para sobrevivir.
