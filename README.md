@@ -1,3 +1,16 @@
+>## **Día 6 (24/10/2025)**
+
+Se ha hablado sobre los distintos métodos que tienen varios seres vivos a la hora de mantener su especie viva y evolucionando:
+
+Estrategia K: Crecimiento poblacional lento, en donde los "padres" tienden a tener un control parental sobre éstos hijos. Además, tiende a ser una estrategia en la que se reproduce de una manera lenta pero al llegar a cierta cantidad de seres vivos en ésta especie se mantiene en una linea estable en la que va evolucionando respecto a los cambios que presenta el ambiente. 
+
+Estrategia R: Crecimiento poblacional rápido, en donde este tipos de especies tienede a tanto como a reporducirse muy rápido y a morir muy rápido. Generando un pico cosntante en la cantiadd de seres vivos por especie.
+
+¿Qué estrategia usamos los humanos?
+
+Es cierto que los humanos han tenido ciertas épocas donde se vió una reporducción más alta pero no llega a ser tan exagerada como lo puede ser una especie de estrategia R, donde el parentezco se ve mucho más presente que en la estrategia K.
+
+
 >## **Día 5 (17/10/2025)**
 
 Primero, hablamos sobre la convivencia que existe entre los seres vivos y como nos relacionamos con ellos todos los días, dejando en claro que nunca estamos solos, vivimos al rededor de animales, flora y distintas personas dentro de nuestra sociedad que afectan a nuestros comportamientos diariamente.
