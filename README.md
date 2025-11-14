@@ -1,7 +1,90 @@
+# Noviembre
+
+>## **Día 9 (14/11/2025)**
+
+Se añadirá a partir de hoy una imágen en el repositorio para cada clase
+
+Se ha explicado el peso oculto detrás de la fabricación y sostención de por ejemplo un teléfono, en donde la fabricación de un teléfono, los materiales que se usan para la fabricación de uno solo puede llegar a tener un peso de aproximadamente 80kg de materiales solo para la fabricación de un teléfono de 150g.
+
+Análisis del ciclo de vida
+1. Materias Primas: Extracción de recursos
+2. Fabricación Proceso industrial
+3. Distribuciones Transporte de producto
+4. Uso La vida del producto con el consumidor
+5. Gestión Desecho del producto al vertedero
+
+> Investigación con la IA respecto al ciclo de vida de una tostadora:
+
+### 1. Materias primas (Extracción de recursos)
+
+En esta etapa se obtienen los materiales necesarios para fabricar la tostadora:
+
+Metales como acero inoxidable (carcasa), aluminio y cobre (cables).
+
+Plásticos como ABS o polipropileno para las partes externas e internas.
+
+Componentes electrónicos (placa de control, interruptores, resistencias, termostatos).
+Estos materiales provienen de minería, extracción de petróleo, refinado y procesos industriales de base.
+Impactos típicos: consumo de recursos naturales, uso energético alto, emisiones en extracción y refinado.
+
+ ### 2. Fabricación (Proceso industrial)
+
+Una vez obtenidas las materias primas, se fabrican y ensamblan los componentes de la tostadora:
+
+Moldeado de piezas plásticas.
+
+Conformado del acero para la carcasa.
+
+Fabricación del elemento calefactor (resistencia).
+
+Montaje del cableado y de la electrónica.
+
+Ensamblaje final en la planta y pruebas de calidad.
+Impactos típicos: consumo energético en máquinas, generación de residuos de producción, emisiones asociadas a electricidad y calor industrial.
+
+ ### 3. Distribución (Transporte del producto)
+
+La tostadora terminada se transporta desde la fábrica hasta centros logísticos, tiendas o directamente al consumidor.
+
+Puede involucrar transporte por barco, camión o avión (según país de fabricación).
+
+Incluye embalajes secundarios (cajas, cartón, plásticos).
+Impactos típicos: combustión de combustibles fósiles para el transporte, emisiones de CO₂, generación de residuos de embalaje.
+
+ ###  4. Uso (Vida del producto con el consumidor)
+
+La tostadora se utiliza regularmente en el hogar:
+
+Consumo de electricidad para calentar las resistencias.
+
+Desgaste de componentes internos por ciclos térmicos.
+
+Posibles reparaciones o mantenimiento básico (retirar migas).
+Impactos típicos: consumo energético diario (puede superar la huella de fabricación si se usa durante varios años), coste económico y emisiones indirectas según el mix eléctrico del país.
+
+### 5. Gestión del final de vida (Desecho o reciclaje)
+
+Cuando la tostadora deja de funcionar, pasa al flujo de residuos:
+
+Puede terminar en vertedero o incineración.
+
+Idealmente entra a un punto limpio / RAEE, donde se recuperan metales y cables.
+
+Los plásticos y piezas electrónicas son más difíciles de reciclar, pero parte del acero y cobre suele recuperarse.
+Impactos típicos: si no se recicla, se pierden materiales valiosos y se contaminan suelos/aire; si se recicla, se reduce la necesidad de producir materiales vírgenes.
+
+Esto daría como resultado un peso uculto de unos 40 y 90kg de material transportado por una tostadora de 1,4kg 
+
+
+
+![alt text](image.png)
+
+
 >## **Día 8 (7/11/2025)**
 
 No hubo clase
 
+# Octubre
 
 >## **Día 7 (31/10/2025)**
 
@@ -58,6 +141,7 @@ Desde un punto de vista en el que supongamos que se arma una guerra nuclear entr
 
 Sin embargo, es muy dificil acabar con toda la vida al 100% en el planeta, ya que habrían plantas, diferentes bacterias, organismos que prevalecerían en esas condiciones. Mi respuesta es que es muy dificl acabar con la vida completa del planeta.
 
+# Septiembre 
 
 >## **Día 2 (26/09/2025)**
 
