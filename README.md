@@ -1,5 +1,12 @@
 # Noviembre
 
+>## **Día 10 (21/11/2025)**
+
+No hubo clase
+
+<img src="image.png" width="100" height="100">
+
+
 >## **Día 9 (14/11/2025)**
 
 Se añadirá a partir de hoy una imágen en el repositorio para cada clase
@@ -76,13 +83,14 @@ Impactos típicos: si no se recicla, se pierden materiales valiosos y se contami
 Esto daría como resultado un peso uculto de unos 40 y 90kg de material transportado por una tostadora de 1,4kg 
 
 
-
-![alt text](image.png)
+![alt text](cicloVidaProducto.png)
 
 
 >## **Día 8 (7/11/2025)**
 
 No hubo clase
+
+---
 
 # Octubre
 
