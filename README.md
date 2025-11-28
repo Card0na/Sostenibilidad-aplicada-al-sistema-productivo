@@ -1,5 +1,30 @@
 # Noviembre
 
+>## **Día 11 (27/11/2025)**
+
+Economía lineal VS Circular
+
+Economñia Lineal: Tomar, hacer y desechar
+
+Economía Circular: Reutilizar esos desechos para la creación de nuevos materiales
+    
+    - Ecodiseño
+    - Prioridad
+    - Integración ecosistémica
+
+>**¿Cómo me afecta el sistema de ecodiseño? ¿Problemas personales/colectivos?**
+
+Gracias a la implementación de un Ecodiseño en nuestro día a día se pueden ver distintos casos en los que esto se vería factible y por otro lado las cosas podrían tornarse peor si no se tiene un buen uso de éste sistema.
+
+El lado positivo está claramanete en el efecto positivo que tiene ésto en el medio ambiente ya que todo los desechos se verían en un estado reciclabe y viable para poder reutilizar este "desecho" y evitar la contaminación mundial en el mundo.
+
+Sin embargo, esto llevaría a una implementación de nuevas costumbres y diferentes procesos de producción de productos en donde las costumbres llevarían a la confusión de los clientes concurrentes en las empresas.
+Esto resultaría en que pocas empresas no tomarían este sistema como implementación por el miedo a perder sus ingresos o bajar significativamente éstos u otras empresa podrían decir que implementan estos materiales reciclables y simplemente no usarlos, solamente para fomentar una buena imágen a la empresa.
+
+![alt text](<economía circular y lineal.png>)
+
+
+
 >## **Día 10 (21/11/2025)**
 
 No hubo clase
