@@ -1,3 +1,30 @@
+
+# Diciembre
+>## **Día 12 (5/12/2025)**
+
+¿Cuanto pesas en el planeta?
+
+Huella ecológica y huella de carbono
+
+Huella ecológica:
+Demanda vs oferta (Compara la cantidad que consumimos contra lo que la tierra puede asimilar)
+
+Huella de carbono:
+Identificador de feuntes de Co2 en el medio ambiente (actividad, producto, individuo o empresa) estableciendo estrategias para reducirlo
+
+Estrategias para reducción:
+1. Reducir
+2. Eficiencia
+3. Compensar
+
+
+¿Cuál es tu huella de carbono?
+![alt text](consumoHuella.png)
+
+---
+
+
+
 # Noviembre
 
 >## **Día 11 (27/11/2025)**
@@ -7,10 +34,10 @@ Economía lineal VS Circular
 Economñia Lineal: Tomar, hacer y desechar
 
 Economía Circular: Reutilizar esos desechos para la creación de nuevos materiales
-    
+
     - Ecodiseño
     - Prioridad
-    - Integración ecosistémica
+    - Integración ecosistémic   a
 
 >**¿Cómo me afecta el sistema de ecodiseño? ¿Problemas personales/colectivos?**
 
