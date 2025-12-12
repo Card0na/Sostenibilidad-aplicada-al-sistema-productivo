@@ -1,5 +1,33 @@
 
 # Diciembre
+
+>## **Día 13 (12/12/2025)**
+
+# Cambio Climático
+
+Se ha hablado en la clase sobre como el cambio climático afecta no solo a aspectos ecólogicos y ambientales si no que esto también podría desencadenar en el desmoronamiento de la sociedad como la conocemos.
+Hemos hablado de como es que el cambio climático puede llegar a ser hasta un problema del ministerio de interior de España, donde se busca la seguridad de las personas. Se hizo exactamente esa pregunta.
+
+
+### ¿Cómo es que el minsterio de interior (Guardia vicil) tiene que enfretarse al cambio climático sabiendo que es un problema mayormente internacional y prácticamente incotrolable?
+
+Hemos dado con el punto de que el cambio climático conllevaría a ciertos problemas tanto como políticos y sociales. 
+El cambio climático conllevaría a cambios ambientales que podrían afectar a los recursos de ciertas regiones, comunidades de otros paises y esto conlleva a generar conflicto o una especie de lucha por los recursos que se están perdiendo por culpa del cambio climático.
+
+### ¿Cual es el principal emisor de Co2?
+
+El principal emisor de CO2 es generado por dsitintas fábricas en consecuencia de la quema de combustibles fósiles como lo puede ser el carbón, petróleo y el gas natural. Esto para la generación de energía, transporte e industria, siendo China el país que más contribuye a esta emisión de Co2.
+
+### ¿Qúe sistema se podría implementar para afectar el cambio climático a bien?
+
+Un aporte pequeño a la contribución del cambio climático a bien puede ser la implementación de el modo ECO en un sistema.
+Esto sería básicamente que cuando el sistema no esté en uso entre en modo ECO después de un tiempo para así ahorrar energía y evitar el consumo de energía constante. 
+
+Esto gracias a que la mayoría de la energía del mundo todavía se genera quemando carbón, petróleo y gas natural.
+Cuando quemamos esos combustibles para producir electricidad, se liberan gases de efecto invernadero, principalmente Co2.
+
+![alt text](cambio_climatico.jpg)
+
 >## **Día 12 (5/12/2025)**
 
 ¿Cuanto pesas en el planeta?
