@@ -1,4 +1,30 @@
 
+# Enero
+
+## **Día 14 (9/01/2025)**
+
+## Resumen:
+### Contaminación y residuos
+Se ha realizado en la clase una charla sobre los residuos y como estos cuentan de un respectivo ciclo en donde es dependiendo de la perspectiva de la persona cuando deja de ser útil algo.
+Por ejemplo, al desechar un dispositivo móvil, para la persona que lo desecha puede dejar de ser útil ese dispositivo y lo desecha, volviendose éste dispositivo un residuo. Sin embargo, hay alguien que se encuentra ese dispositivo y decide reutilizar sus componentes internos para un uso distinto, ese residuo vuelve a ser algo útil para alguien, pues esto pasas con distintos ejemplos como lo puede ser la comida, la cual al desechar sus restos, éstos pueden volverse compost para las plantas.
+
+## Reflexión personal:
+
+Yo considero que todo lo que se habló en clase tiene sentido y estoy de acuerdo en que las cosas desechadas de alguna u otra manera hay demás personas que las aprovechan o compñías que las reutilizan para procesos personales.
+Sin embargo, considero que la producción de desechos y residuos es muchisima mayor que la que se recicla y vuelve a meterse en el ciclo de uso, por lo que de éste punto de vista de que las cosas siempre.
+
+## Pregunta:
+
+¿Por qué cambiaste tu último telefono?
+
+Me robaron
+
+---
+
+![alt text](image-1.png)
+
+---
+
 # Diciembre
 
 >## **Día 13 (12/12/2025)**
