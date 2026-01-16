@@ -1,6 +1,28 @@
 
 # Enero
 
+## **Día 15 (16/01/2026)**
+
+## Resumen:
+
+**ODS:** Son un conjunto de objetivos globales adoptados por la ONU como parte de la Agenda 2030 para el desarrollo sostenible. Su objetivo principal es un desarrollo sostenible, es decir, un desarrollo que satisfaga las necesidades del presente sin comprometer a las futuras generaciones.
+
+Se dividió la clase en 2, adaptando 2 opiniones distintas por las que teniamos que investigar los argumentos a favor y los argumentos en contra que genera en las personas el adaptar los distintos objetivos de desarrollo sostenible en la sociedad.
+ 
+## Reflexión personal:
+ Como estos objetivos no son precisamente obligatorios y son más que todo un marco de orientación, que ayuda a definir prioiridades frente a la toma de decisiones, medir avances y comparar resultados entre paises. Siento que hay varios paises que al no tomar las medidas que se toman en los ODS, terminan aprovechandose de los que si lo hacen, perjudicando conjuntamente a distintos paises.
+
+
+¿Crees que se van a conseguir los objetivos de desarrollo sostenible (ODS)?
+
+Considero que es muy dificl que todo país en el mundo se dedique especificamente a cumplir con estos objetivos, ya que cada lider social tiende a actuar más que todo por su propio bienestar y comodidad, que por como se puede ver afectado sus desiciones globalmente.
+Por ende, considero que es casi imposible que se cumplan todos estos objetivos.
+
+---
+![alt text](ODS.jpg)
+---
+
+
 ## **Día 14 (9/01/2025)**
 
 ## Resumen:
