@@ -24,6 +24,8 @@ Con esto quiero dar a entender que lo hablado en clase deja muy en claro que la 
 Claramente, como venía hablando, considero plenamente que los planes de sostenibilidad tienen un aspecto relevante y positivo respecto a sus resultados dentro de la sociedad.
 Sin embargo, se pueden presentar casos en los que empresas, fábricas o negocios “toman medidas” de sostenibilidad simplemente para aumentar sus ventas al mostrarse como más ecológicos, cuando en realidad no aplican cambios reales y continúan con los mismos procesos de producción.
 
+![alt text](sosteniblidad.webp)
+
 --- 
 
 ## **Día 15 (16/01/2026)**
