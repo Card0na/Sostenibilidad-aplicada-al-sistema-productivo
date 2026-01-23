@@ -1,6 +1,31 @@
 
 # Enero
 
+
+## **Día 16 ()23/01/2026**
+
+## Resumen:
+¿Qué es la sostenibilidad?
+Se puede decir que la sostenibilidad es una acción que trata de cumplir con las necesidades de la sociedad, como puede ser dentro de una empresa, pero sin comprometer a las futuras generaciones. Buscando así un equilibrio entre el crecimiento económico, el cuidado del medio ambiente y el bienestar en conjunto.
+
+¿¿NO ES UNA OPCIÓN, ES UNA CONDICIÓN DE SUPERVIVENCIA?
+
+Se habló sobre la idea de que la sostenibilidad ya no es una opción, sino algo que se debe tener en cuenta sí o sí para el bien de las futuras generaciones.
+Hoy en día vivimos en una sociedad muy hipócrita y egoísta, donde la ganancia económica personal se ve por encima del bienestar de las personas, algo que debe tenerse en cuenta obligatoriamente, ya que sin sostenibilidad no hay economía a largo plazo. Las empresas que destruyen los recursos generan conflictos entre países por dichos recursos. No es una opción.
+
+Reflexión personal:
+
+Respecto a lo visto en clase, coincido plenamente, ya que se dio un ejemplo muy bueno sobre compañías que se dedican a fabricar vehículos extremadamente caros, los cuales representan una amenaza para la sostenibilidad en comunidad, al tener un mayor consumo de combustible, utilizar piezas de fibra de carbono y otros procesos industriales complejos, además de requerir mantenimiento y repuestos especializados. Claramente, su uso es por placer y no como medio de transporte diario, por lo que no se justifica como una necesidad real.
+
+Con esto quiero dar a entender que lo hablado en clase deja muy en claro que la sostenibilidad, más que algo opcional y éticamente bien visto, es sencillamente algo que se debe tener en cuenta en todos los aspectos de nuestra vida para poder prevalecer cómodamente como sociedad.
+
+## Pregunta:
+¿Los planes de sostenibilidad sirven para algo o es solo greenwhashing?
+Claramente, como venía hablando, considero plenamente que los planes de sostenibilidad tienen un aspecto relevante y positivo respecto a sus resultados dentro de la sociedad.
+Sin embargo, se pueden presentar casos en los que empresas, fábricas o negocios “toman medidas” de sostenibilidad simplemente para aumentar sus ventas al mostrarse como más ecológicos, cuando en realidad no aplican cambios reales y continúan con los mismos procesos de producción.
+
+--- 
+
 ## **Día 15 (16/01/2026)**
 
 ## Resumen:
@@ -12,6 +37,8 @@ Se dividió la clase en 2, adaptando 2 opiniones distintas por las que teniamos 
 ## Reflexión personal:
  Como estos objetivos no son precisamente obligatorios y son más que todo un marco de orientación, que ayuda a definir prioiridades frente a la toma de decisiones, medir avances y comparar resultados entre paises. Siento que hay varios paises que al no tomar las medidas que se toman en los ODS, terminan aprovechandose de los que si lo hacen, perjudicando conjuntamente a distintos paises.
 
+
+## Pregunta:
 
 ¿Crees que se van a conseguir los objetivos de desarrollo sostenible (ODS)?
 
