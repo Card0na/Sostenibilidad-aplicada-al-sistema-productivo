@@ -1,14 +1,37 @@
 
 # Enero
 
+## **Día 17 (06/02/2025)**
 
-## **Día 16 ()23/01/2026**
+## Resumen:
+En este día se realizó las presentaciones correspontientes de las páginas creadas a lo largo del curso sobre una sociedad y cómo es que esta aplicaba la sostenibilidad para existir.
+Los temas elegidos por la clase han sido:
+- Los sumerios
+- Mesopotamia
+- Imperio Español
+- Antigua grecia
+- Civilización Romana
+
+## Reflexión personal:
+Considero personalmente que, entre todas las exposiciones grupales, las más interesantes han sido las de la sociedad mesopotámica y el Imperio español. Esto se debe a que en ambas se puede ver cómo una sociedad logra mantenerse durante mucho tiempo, adaptándose a su entorno, a sus costumbres y a los problemas que va enfrentando.
+
+La sociedad mesopotámica es un buen ejemplo de cómo las personas aprendieron a aprovechar los recursos de su entorno, a pesar de las dificultades como las inundaciones de los ríos. Gracias a su organización y a sus avances, lograron desarrollarse y dejar importantes aportes a la historia. Sin embargo, estas sociedades desaparecieron con el tiempo debido a las guerras, las invasiones de otros pueblos y los conflictos internos, lo que provocó su debilitamiento.
+
+Por otro lado, el Imperio español logró expandirse y mantenerse durante varios siglos gracias a su organización y al control de muchos territorios. Aun así, con el paso del tiempo fue perdiendo fuerza debido a las crisis económicas, las guerras y las independencias de sus colonias. Esto demuestra que, aunque una sociedad sea muy poderosa, puede desaparecer si no se adapta a los cambios.
+
+En conclusión, estas dos sociedades enseñan que la adaptación es clave para durar en el tiempo, pero también muestran que ninguna civilización es eterna. Analizar su historia ayuda a entender mejor cómo se desarrollan y cómo pueden desaparecer las sociedades.
+
+
+![alt text](image-2.png)
+
+
+## **Día 16 (23/01/2026)**
 
 ## Resumen:
 ¿Qué es la sostenibilidad?
 Se puede decir que la sostenibilidad es una acción que trata de cumplir con las necesidades de la sociedad, como puede ser dentro de una empresa, pero sin comprometer a las futuras generaciones. Buscando así un equilibrio entre el crecimiento económico, el cuidado del medio ambiente y el bienestar en conjunto.
 
-¿¿NO ES UNA OPCIÓN, ES UNA CONDICIÓN DE SUPERVIVENCIA?
+¿NO ES UNA OPCIÓN, ES UNA CONDICIÓN DE SUPERVIVENCIA?
 
 Se habló sobre la idea de que la sostenibilidad ya no es una opción, sino algo que se debe tener en cuenta sí o sí para el bien de las futuras generaciones.
 Hoy en día vivimos en una sociedad muy hipócrita y egoísta, donde la ganancia económica personal se ve por encima del bienestar de las personas, algo que debe tenerse en cuenta obligatoriamente, ya que sin sostenibilidad no hay economía a largo plazo. Las empresas que destruyen los recursos generan conflictos entre países por dichos recursos. No es una opción.
